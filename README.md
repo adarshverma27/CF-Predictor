@@ -1,4 +1,4 @@
-# CF-Coach — predicting Codeforces problem difficulty
+# CF-Predictor — predicting Codeforces problem difficulty
 
 Codeforces assigns every problem a difficulty rating from 800 to 3500, but only
 *after* enough people have attempted it. Recent problems sit unrated for weeks.
